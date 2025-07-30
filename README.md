@@ -28,3 +28,4 @@ As ferramentas da Azure mostraram-se úteis para soluções baseadas em IA volta
   
 
 ## 📂 Organização
+Durante a prática, compreendi melhor como essas ferramentas de IA podem ser aplicadas em contextos reais, como atendimento automatizado e análise de sentimentos.
